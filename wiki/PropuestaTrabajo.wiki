@@ -6,7 +6,7 @@ Para realizar el trabajo es necesario conocer los contenidos que se dan en el te
 Se recomiendan las siguientes referencias para comprender bien el algoritmo de retropropagación. Además, en la primera de ellas (sección 4.7) se describe una aplicación similar a la que se pide en este trabajo.
 
     * Tema 4 del libro "Machine Learning" de Tom Mitchell (en la biblioteca del centro hay varios ejemplares para su préstamo y consulta). En la sección 4.5 se describe el algoritmo de retropropagación y en la 4.7 se dan detalles sobre la aplicación de redes neuronales al reconocimiento de imágenes.
-    * Sección 20.5 del capítulo 20 del libro Inteligencia Atificial: un enfoque moderno de S. Russell y P. Norvig (segunda edición en español, disponible en la biblioteca). En la tercera edición (sólo en inglés) las redes neuronales se tratan en la sección 18.7. 
+    * Sección 20.5 del capítulo 20 del libro Inteligencia Artificial: un enfoque moderno de S. Russell y P. Norvig (segunda edición en español, disponible en la biblioteca). En la tercera edición (sólo en inglés) las redes neuronales se tratan en la sección 18.7. 
 
 == PARTE II: Implementación de algoritmos de aprendizaje de redes neuronales ==
 Implementar en Lisp (preferentemente) o en Java los siguientes algoritmos de aprendizaje para redes neuronales:
